@@ -1,0 +1,16 @@
+C:\Users\idra9\source\repos\Patrones de Diseño\Patrones de Diseño\obj\Debug\net5.0\Patrones de Diseño.csproj.AssemblyReference.cache
+C:\Users\idra9\source\repos\Patrones de Diseño\Patrones de Diseño\obj\Debug\net5.0\Patrones de Diseño.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\idra9\source\repos\Patrones de Diseño\Patrones de Diseño\obj\Debug\net5.0\Patrones de Diseño.AssemblyInfoInputs.cache
+C:\Users\idra9\source\repos\Patrones de Diseño\Patrones de Diseño\obj\Debug\net5.0\Patrones de Diseño.AssemblyInfo.cs
+C:\Users\idra9\source\repos\Patrones de Diseño\Patrones de Diseño\obj\Debug\net5.0\Patrones de Diseño.csproj.CoreCompileInputs.cache
+C:\Users\idra9\source\repos\Patrones de Diseño\Patrones de Diseño\bin\Debug\net5.0\Patrones de Diseño.exe
+C:\Users\idra9\source\repos\Patrones de Diseño\Patrones de Diseño\bin\Debug\net5.0\Patrones de Diseño.deps.json
+C:\Users\idra9\source\repos\Patrones de Diseño\Patrones de Diseño\bin\Debug\net5.0\Patrones de Diseño.runtimeconfig.json
+C:\Users\idra9\source\repos\Patrones de Diseño\Patrones de Diseño\bin\Debug\net5.0\Patrones de Diseño.runtimeconfig.dev.json
+C:\Users\idra9\source\repos\Patrones de Diseño\Patrones de Diseño\bin\Debug\net5.0\Patrones de Diseño.dll
+C:\Users\idra9\source\repos\Patrones de Diseño\Patrones de Diseño\bin\Debug\net5.0\ref\Patrones de Diseño.dll
+C:\Users\idra9\source\repos\Patrones de Diseño\Patrones de Diseño\bin\Debug\net5.0\Patrones de Diseño.pdb
+C:\Users\idra9\source\repos\Patrones de Diseño\Patrones de Diseño\obj\Debug\net5.0\Patrones de Diseño.dll
+C:\Users\idra9\source\repos\Patrones de Diseño\Patrones de Diseño\obj\Debug\net5.0\ref\Patrones de Diseño.dll
+C:\Users\idra9\source\repos\Patrones de Diseño\Patrones de Diseño\obj\Debug\net5.0\Patrones de Diseño.pdb
+C:\Users\idra9\source\repos\Patrones de Diseño\Patrones de Diseño\obj\Debug\net5.0\Patrones de Diseño.genruntimeconfig.cache
